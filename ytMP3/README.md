@@ -1,0 +1,1 @@
+YT-MP3 is a python script that loads a GUI allowing the user to put in a filename and a link to a YT video, which after clicking 'Download' will look for the youtube video, find the audio stream with highest available quality, and download an mp3 version.
